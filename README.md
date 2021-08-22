@@ -1,4 +1,4 @@
-# Welcome to the official pure resources repository
+# ⚡️ Welcome to the official pure resources repository ⚡️
 
 ## What can I find here?
 - all of our collaborative pure routines, guides & ressources

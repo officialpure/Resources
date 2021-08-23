@@ -8,6 +8,7 @@ Make sure to utilize the `Discussions` tab and feel free to suggest changes via 
 ## What can I find here?
 - all of our collaborative pure routines, guides & ressources
 - routines & guides of individuals that want to provide their contributions via the pure hub
+- a way to ask questions, give us feedback & suggest your ideas via the [Discussions](https://github.com/officialpure/Resources/discussions)-Tab.
 
 ## Socials
 - [Public Discord](https://discord.com/invite/88MG9UyKPK)

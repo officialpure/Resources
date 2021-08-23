@@ -4,8 +4,10 @@
 - all of our collaborative pure routines, guides & ressources
 - routines & guides of individuals that want to provide their contributions via the pure hub
 
-# Socials
-- [Public Discord]() <-- fill this once its live
+## Socials
+- [Public Discord](https://discord.com/invite/88MG9UyKPK)
 - [Twitter](https://twitter.com/PureGofficial)
 
-Thanks for checking us out! 🎴
+## Sponsored by [KovaaK 2.0](https://t.co/gUfOtwrje2?amp=1)
+- buy the aim trainer of our choice [here](https://store.steampowered.com/app/824270/KovaaK_20/)
+- check out their [Twitter](https://twitter.com/KovaaKs)

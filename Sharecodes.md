@@ -8,7 +8,7 @@ Routines that are geared around improving in specific games
 
 ## apex
 KovaaK - KovaaKsAdsing90Patrol  
-Lapu4 - KovaaKsExitfraggingAlmightyCapture
+Lapu4 - KovaaKsExitfraggingAlmightyCapture  
 n0ted - KovaaKsBobbingInvincibleShotgun  
 PureG - KovaaKsPatrollingFuchsiaIntelligence  
 Voltaic - KovaaKsGearingFastUfo  

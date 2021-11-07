@@ -90,7 +90,7 @@ Routines meant to help with specific issues encountered when aim training, like 
 LighthawkFPS - Target Reading Easy - KovaaKsCrankingFlyReset  
 LighthawkFPS - Target Reading Normal - KovaaKsCrackingFlyBfg  
 Voltaic Smoothness & Precision Easy - KovaaKsCrossfiringDesertsandBuff  
-Voltaic Smoothness & Precision Intermediate - KovaaKsDashingDiagonalJump
+Voltaic Smoothness & Precision Intermediate - KovaaKsDashingDiagonalJump  
 Voltaic Speed - KovaaKsExitfraggingEntryGamesense  
 Voltaic Static Target Acquisition Easy 1b1 - KovaaKsEntryfraggingEggplantPrism  
 Voltaic Static Target Acquisition Easy Complete - KovaaKsEnragingEggplantArena  

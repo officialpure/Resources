@@ -29,7 +29,7 @@ KovaaK Valorant - KovaaKsClippingBrownBottomfrag
 MrSavage - KovaaKsBaitingAcedEntryfragger  
 n0ted - KovaaKsBottingJumboBattlepass  
 Safaroonie Shotgun - KovaaKsTaggingScarletBlueberry  
-Voltaic Easy - KovaaKsTeleportingJebaitedBuystation
+Voltaic Easy - KovaaKsTeleportingJebaitedBuystation  
 Yamz Practical - KovaaKsSwitchingTealValue  
 
 ## destiny 2

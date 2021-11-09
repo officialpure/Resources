@@ -1,7 +1,7 @@
 # intro - how to use
 This will be a list of all known public sharecodes for Kovaaks FPS Aim Trainer.  To use the Share code, simply copy the sharecode and paste it in Kovaaks by going to the following location:
 
-**Sandbox -> Online Playlists - Enter Share Code**
+**Sandbox -> Online Playlists -> Enter Share Code**
 
 # game-specific
 Routines that are geared around improving in specific games

@@ -26,9 +26,7 @@ BardOZ Advanced - KovaaKsTrackingJitteryLowground
 Freakazoid - KovaaKsBoomstickingJitteryDink  
 KovaaK CS - KovaaKsAscending360Ufo  
 KovaaK Valorant - KovaaKsClippingBrownBottomfrag  
-MrSavage - KovaaKsBaitingAcedEntryfragger  
 n0ted - KovaaKsBottingJumboBattlepass  
-Safaroonie Shotgun - KovaaKsTaggingScarletBlueberry  
 Voltaic Easy - KovaaKsTeleportingJebaitedBuystation  
 Yamz Practical - KovaaKsSwitchingTealValue  
 
@@ -37,6 +35,8 @@ Voltaic & Pattycakes - KovaaKsGlidingFlankedEntryfragger
 
 ## fortnite
 KovaaK - KovaaKsBackflipping10xMonster  
+MrSavage - KovaaKsBaitingAcedEntryfragger  
+Safaroonie Shotgun - KovaaKsTaggingScarletBlueberry  
 Voltaic Charge (1st Person) - KovaaKsBloomingMaximumblueFalldamage  
 Voltaic Charge (3rd Person) - KovaaKsBobbingMediumCamp  
 Voltaic Fundamental (1st Person) - KovaaKsBlinkingMauveNuns  

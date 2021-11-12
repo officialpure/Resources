@@ -34,6 +34,7 @@ Yamz Practical - KovaaKsSwitchingTealValue
 Voltaic & Pattycakes - KovaaKsGlidingFlankedEntryfragger  
 
 ## fortnite
+Fallen Fundamentals - KovaaksBaitingDiagonalFlank
 KovaaK - KovaaKsBackflipping10xMonster  
 MrSavage - KovaaKsBaitingAcedEntryfragger  
 Safaroonie Shotgun - KovaaKsTaggingScarletBlueberry  

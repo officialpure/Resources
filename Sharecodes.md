@@ -89,10 +89,12 @@ Lapu4 static 2 - KovaaKsCrouchingBrownEnrage
 Ridd dynamic - KovaaKsPlunderingMountedDink  
 
 ## tracking
+Jab smoothness - KovaaKsImpactingGreenGamesense  
 
 ## target switching
 
 ## complete
+Jab complete - KovaaKsEnragingCobaltAimbot  
 
 # issue-specific
 Routines meant to help with specific issues encountered when aim training, like overflicking

@@ -135,3 +135,13 @@ Tammas Intermediate Beginner Tracking - KovaaKsCapturingPlumEgg
 
 # benchmarks
 Community-driven benchmark scenarios that are used for measuring relative aim progression
+
+## revosect easy
+Clicking - KovaaKsPlunderingShinyStrike  
+Switching - KovaaKsPoppingSilverLoadout  
+Tracking - KovaaKsPullingSkyblueDps  
+
+## Revosect Hard
+Clicking - KovaaKsPushingSlipperyBm  
+Switching - KovaaKsQuestingSlipperySeason    
+Tracking - KovaaKsRaidingSlowHip    

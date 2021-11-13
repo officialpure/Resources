@@ -141,7 +141,7 @@ Clicking - KovaaKsPlunderingShinyStrike
 Switching - KovaaKsPoppingSilverLoadout  
 Tracking - KovaaKsPullingSkyblueDps  
 
-## Revosect Hard
+## revosect hard
 Clicking - KovaaKsPushingSlipperyBm  
 Switching - KovaaKsQuestingSlipperySeason    
 Tracking - KovaaKsRaidingSlowHip    

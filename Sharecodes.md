@@ -34,7 +34,16 @@ Yamz Practical - KovaaKsSwitchingTealValue
 Voltaic & Pattycakes - KovaaKsGlidingFlankedEntryfragger  
 
 ## fortnite
-Fallen Fundamentals - KovaaksBaitingDiagonalFlank
+Fallen 1b1 Complete 1 - KovaaKsClearingMediumFaction  
+Fallen 1b1 Complete 2 - KovaaKsClippingMehTank  
+Fallen 1b1 Complete 3 - KovaaKsCounterstrafingMidMachine  
+Fallen 1b1 Static - KovaaKsDashingNarrowDiscord  
+Fallen Complete - KovaaKsGriefingCloseBfg  
+Fallen Intermediate Tracking - KovaaKsCheatingMauveWeaponlevel  
+Fallen Low reps A (tracking) - KovaaKsCrackingMidnightblueEco  
+Fallen Low reps B (clicking) - KovaaKsClearingMediumFaction  
+Fallen Fundamentals - KovaaksBaitingDiagonalFlank  
+Fallen Shotgun - KovaaKsStrikingButteryAdventure  
 KovaaK - KovaaKsBackflipping10xMonster  
 MrSavage - KovaaKsBaitingAcedEntryfragger  
 Safaroonie Shotgun - KovaaKsTaggingScarletBlueberry  

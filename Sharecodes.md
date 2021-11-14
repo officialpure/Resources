@@ -84,32 +84,50 @@ Movement (by Patys) - KovaaKsBunnyhoppingAquamarineQuaker
 bil static - KovaaKsBindingGoldenochrePopcorn  
 bil static collection - KovaaKsBaitingGoldenochreAntidive  
 Huss dynamic - KovaaKsDunkingHorizontalFireteam  
-Lapu4 static 1 - KovaaKsBindingSpringgreenLostsector  
-Lapu4 static 2 - KovaaKsCrouchingBrownEnrage  
+Lapu4 static  - KovaaKsCrouchingBrownEnrage  
 Ridd dynamic - KovaaKsPlunderingMountedDink  
+
+## movement
+Voltaic Strafe Tracking - KovaaKsFlankingFantasticPatrol 
 
 ## tracking
 Jab smoothness - KovaaKsImpactingGreenGamesense  
+Voltaic Reactivity - KovaaKsFeedingExtraCinematic  
 
 ## target switching
+Lapu4 switching 1 - KovaaKsScreamingShinyCinematic  
+Lapu4 switching 2 - KovaaKsRocketingShamrockGamesense  
+Lapu4 switching 3 - KovaaKsRoamingSepiaPrism  
 
 ## complete
 Jab complete - KovaaKsEnragingCobaltAimbot  
+Lapu4 complete - KovaaKsCarryingMahoganyAdventure  
 
 # issue-specific
 Routines meant to help with specific issues encountered when aim training, like overflicking
 
-LighthawkFPS - Target Reading Easy - KovaaKsCrankingFlyReset  
-LighthawkFPS - Target Reading Normal - KovaaKsCrackingFlyBfg  
+## smoothness
+Lapu4 beginner smoothness 1 - KovaaksSnipingSkyblueFinisher  
+Lapu4 beginner smoothness 2 - KovaaKsStrikingSlowMonster  
+Lapu4 intermediate smoothness 1 - KovaaKsSneakingSilverPatrol  
+Lapu4 intermediate smoothness 2 - KovaaKsStrafingSlipperyUfo  
+Lapu4 advanced smoothness 1 - KovaaKsSensingSilver1x1  
+Lapu4 advanced smoothness 2 - KovaaKsStartingSlipperyCashdrop  
 Voltaic Smoothness & Precision Easy - KovaaKsCrossfiringDesertsandBuff  
 Voltaic Smoothness & Precision Intermediate - KovaaKsDashingDiagonalJump  
-Voltaic Speed - KovaaKsExitfraggingEntryGamesense  
+
+## static
 Voltaic Static Target Acquisition Easy 1b1 - KovaaKsEntryfraggingEggplantPrism  
 Voltaic Static Target Acquisition Easy Complete - KovaaKsEnragingEggplantArena  
 Voltaic Static Target Acquisition Advanced 1b1 - KovaaKsDunkingEasyCrossfire  
 Voltaic Static Target Acquisition Advanced Complete - KovaaKsDroppingDynamicHell  
-Voltaic Strafe Tracking - KovaaKsFlankingFantasticPatrol  
-Voltaic Reactivity - KovaaKsFeedingExtraCinematic  
+
+## speed
+Voltaic Speed - KovaaKsExitfraggingEntryGamesense  
+
+## target reading
+LighthawkFPS - Target Reading Easy - KovaaKsCrankingFlyReset  
+LighthawkFPS - Target Reading Normal - KovaaKsCrackingFlyBfg  
 
 # fundamentals
 Community-built fundamental routines that are usually accompanied with documentation and benchmarks for measuring progress
@@ -136,12 +154,12 @@ Tammas Intermediate Beginner Tracking - KovaaKsCapturingPlumEgg
 # benchmarks
 Community-driven benchmark scenarios that are used for measuring relative aim progression
 
-## revosect easy
+## [revosect easy](http://bit.ly/rAbenchmarks)
 Clicking - KovaaKsPlunderingShinyStrike  
 Switching - KovaaKsPoppingSilverLoadout  
 Tracking - KovaaKsPullingSkyblueDps  
 
-## revosect hard
+## [revosect hard](http://bit.ly/rAbenchmarks)
 Clicking - KovaaKsPushingSlipperyBm  
 Switching - KovaaKsQuestingSlipperySeason    
 Tracking - KovaaKsRaidingSlowHip    

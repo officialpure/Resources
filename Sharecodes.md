@@ -26,6 +26,7 @@ BardOZ Advanced - KovaaKsTrackingJitteryLowground
 Freakazoid - KovaaKsBoomstickingJitteryDink  
 KovaaK CS - KovaaKsAscending360Ufo  
 KovaaK Valorant - KovaaKsClippingBrownBottomfrag  
+Krascsi Tacfps - KovaaKsDinkingMauveLoadout  
 n0ted - KovaaKsBottingJumboBattlepass  
 Voltaic Easy - KovaaKsTeleportingJebaitedBuystation  
 Yamz Practical - KovaaKsSwitchingTealValue  
@@ -51,6 +52,9 @@ Voltaic Charge (1st Person) - KovaaKsBloomingMaximumblueFalldamage
 Voltaic Charge (3rd Person) - KovaaKsBobbingMediumCamp  
 Voltaic Fundamental (1st Person) - KovaaKsBlinkingMauveNuns  
 Voltaic Fundamental (3rd Person) - KovaaKsBombingMediumTeleport
+
+## halo infinite
+Ridd budget - KovaaKsDashingVividtangerineHip  
 
 ## hyperscape
 Voltaic - KovaaKsBouncingMidnightblueBrush  
@@ -84,6 +88,8 @@ Movement (by Patys) - KovaaKsBunnyhoppingAquamarineQuaker
 bil static - KovaaKsBindingGoldenochrePopcorn  
 bil static collection - KovaaKsBaitingGoldenochreAntidive  
 Huss dynamic - KovaaKsDunkingHorizontalFireteam  
+Krascsi dynamic - KovaaKsHipfiringOrangeBuystation  
+Krascsi legacy clicking - KovaaKsJigglepeekingBuggedGear  
 Lapu4 static  - KovaaKsCrouchingBrownEnrage  
 Ridd dynamic - KovaaKsPlunderingMountedDink  
 
@@ -91,10 +97,16 @@ Ridd dynamic - KovaaKsPlunderingMountedDink
 Voltaic Strafe Tracking - KovaaKsFlankingFantasticPatrol 
 
 ## tracking
+Krascsi legacy tracking - KovaaKsTimewarpingGhostpeekedHipfire  
+Leica air basic - KovaaKsTeleportingChatfraggedBug  
+Leica air intermediate - KovaaKsTimewarpingChatfraggedStart   
+Leica air advanced - KovaaKsTaggingCharcoalgrayEnrage  
 Jab smoothness - KovaaKsImpactingGreenGamesense  
-Voltaic Reactivity - KovaaKsFeedingExtraCinematic  
+Voltaic reactivity - KovaaKsFeedingExtraCinematic  
+
 
 ## target switching
+Krascsi legacy switching - KovaaKsBlinkingStaticDub  
 Lapu4 switching 1 - KovaaKsScreamingShinyCinematic  
 Lapu4 switching 2 - KovaaKsRocketingShamrockGamesense  
 Lapu4 switching 3 - KovaaKsRoamingSepiaPrism  

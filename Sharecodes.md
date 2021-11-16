@@ -91,8 +91,12 @@ Ridd dynamic - KovaaKsPlunderingMountedDink
 Voltaic Strafe Tracking - KovaaKsFlankingFantasticPatrol 
 
 ## tracking
+Leica air basic - KovaaKsTeleportingChatfraggedBug  
+Leica air intermediate - KovaaKsTimewarpingChatfraggedStart   
+Leica air advanced - KovaaKsTaggingCharcoalgrayEnrage  
 Jab smoothness - KovaaKsImpactingGreenGamesense  
-Voltaic Reactivity - KovaaKsFeedingExtraCinematic  
+Voltaic reactivity - KovaaKsFeedingExtraCinematic  
+
 
 ## target switching
 Lapu4 switching 1 - KovaaKsScreamingShinyCinematic  

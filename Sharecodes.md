@@ -37,6 +37,7 @@ Voltaic & Pattycakes - KovaaKsGlidingFlankedEntryfragger
 
 ## fortnite
 Avery shotgun - KovaaKsAdventuringBaitedHero  
+Avery tracking - KovaaKsDashingGraySmg  
 Avery warmup - KovaaKsAscendingNastyTacmap  
 Avery fundamental 1 - KovaaKsBaitingNerfedDuelist  
 Avery fundamental 2 - KovaaKsBlinkingOlivegreenShard  

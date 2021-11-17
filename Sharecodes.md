@@ -36,6 +36,11 @@ Yamz Practical - KovaaKsSwitchingTealValue
 Voltaic & Pattycakes - KovaaKsGlidingFlankedEntryfragger  
 
 ## fortnite
+Avery shotgun - KovaaKsAdventuringBaitedHero  
+Avery warmup - KovaaKsAscendingNastyTacmap  
+Avery fundamental 1 - KovaaKsBaitingNerfedDuelist  
+Avery fundamental 2 - KovaaKsBlinkingOlivegreenShard  
+Avery fundamental 3 - KovaaKsBloomingOrangeImpact  
 Fallen 1b1 Complete 1 - KovaaKsClearingMediumFaction  
 Fallen 1b1 Complete 2 - KovaaKsClippingMehTank  
 Fallen 1b1 Complete 3 - KovaaKsCounterstrafingMidMachine  
@@ -86,6 +91,7 @@ Advanced - KovaaKsAcing901x1
 Movement (by Patys) - KovaaKsBunnyhoppingAquamarineQuaker
 
 ## clicking
+Avery static + smoothness - KovaaKsBloomingEntryCrossfire  
 bil static - KovaaKsBindingGoldenochrePopcorn  
 bil static collection - KovaaKsBaitingGoldenochreAntidive  
 Huss dynamic - KovaaKsDunkingHorizontalFireteam  
@@ -126,6 +132,7 @@ Lapu4 intermediate smoothness 1 - KovaaKsSneakingSilverPatrol
 Lapu4 intermediate smoothness 2 - KovaaKsStrafingSlipperyUfo  
 Lapu4 advanced smoothness 1 - KovaaKsSensingSilver1x1  
 Lapu4 advanced smoothness 2 - KovaaKsStartingSlipperyCashdrop  
+Ukiyo smoothness - KovaaKsBobbingCamoflagedPull  
 Voltaic Smoothness & Precision Easy - KovaaKsCrossfiringDesertsandBuff  
 Voltaic Smoothness & Precision Intermediate - KovaaKsDashingDiagonalJump  
 

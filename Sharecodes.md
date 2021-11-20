@@ -137,14 +137,14 @@ Ukiyo smoothness - KovaaKsBobbingCamoflagedPull
 Voltaic Smoothness & Precision Easy - KovaaKsCrossfiringDesertsandBuff  
 Voltaic Smoothness & Precision Intermediate - KovaaKsDashingDiagonalJump  
 
-## static
+## speed
+Voltaic Speed - KovaaKsExitfraggingEntryGamesense  
+
+## target acquistion
 Voltaic Static Target Acquisition Easy 1b1 - KovaaKsEntryfraggingEggplantPrism  
 Voltaic Static Target Acquisition Easy Complete - KovaaKsEnragingEggplantArena  
 Voltaic Static Target Acquisition Advanced 1b1 - KovaaKsDunkingEasyCrossfire  
 Voltaic Static Target Acquisition Advanced Complete - KovaaKsDroppingDynamicHell  
-
-## speed
-Voltaic Speed - KovaaKsExitfraggingEntryGamesense  
 
 ## target reading
 LighthawkFPS - Target Reading Easy - KovaaKsCrankingFlyReset  

@@ -102,7 +102,8 @@ Lapu4 static  - KovaaKsCrouchingBrownEnrage
 Ridd dynamic - KovaaKsPlunderingMountedDink  
 
 ## movement
-Voltaic Strafe Tracking - KovaaKsFlankingFantasticPatrol 
+Meld movement warmup - KovaaKsPerfectingDenimTeleport  
+Voltaic Strafe Tracking - KovaaKsFlankingFantasticPatrol  
 
 ## tracking
 Krascsi legacy tracking - KovaaKsTimewarpingGhostpeekedHipfire  
@@ -184,3 +185,9 @@ Tracking - KovaaKsPullingSkyblueDps
 Clicking - KovaaKsPushingSlipperyBm  
 Switching - KovaaKsQuestingSlipperySeason    
 Tracking - KovaaKsRaidingSlowHip    
+
+## voltaic easy
+Complete - KovaaKsAcingTealBloom    
+
+## voltaic advanced
+Complete - KovaaKsMountingCopperPlunder  

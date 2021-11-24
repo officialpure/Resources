@@ -111,8 +111,8 @@ Leica air basic - KovaaKsTeleportingChatfraggedBug
 Leica air intermediate - KovaaKsTimewarpingChatfraggedStart   
 Leica air advanced - KovaaKsTaggingCharcoalgrayEnrage  
 Jab smoothness - KovaaKsImpactingGreenGamesense  
+Ridd reactive smooth - KovaaKsChatfraggingBadFullbuy  
 Voltaic reactivity - KovaaKsFeedingExtraCinematic  
-
 
 ## target switching
 Krascsi legacy switching - KovaaKsBlinkingStaticDub  
@@ -123,6 +123,7 @@ Lapu4 switching 3 - KovaaKsRoamingSepiaPrism
 ## complete
 Jab complete - KovaaKsEnragingCobaltAimbot  
 Lapu4 complete - KovaaKsCarryingMahoganyAdventure  
+Ridd dense reps alpha - KovaaKsChattingBaitedChopper  
 
 # issue-specific
 Routines meant to help with specific issues encountered when aim training, like overflicking

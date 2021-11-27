@@ -61,6 +61,7 @@ Voltaic Fundamental (1st Person) - KovaaKsBlinkingMauveNuns
 Voltaic Fundamental (3rd Person) - KovaaKsBombingMediumTeleport
 
 ## halo infinite
+Kovaaks - KovaaKsBottingWeeklyDink  
 Ridd budget - KovaaKsDashingVividtangerineHip  
 
 ## hyperscape

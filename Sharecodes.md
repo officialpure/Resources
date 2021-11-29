@@ -125,6 +125,7 @@ Lapu4 switching 3 - KovaaKsRoamingSepiaPrism
 Jab complete - KovaaKsEnragingCobaltAimbot  
 Lapu4 complete - KovaaKsCarryingMahoganyAdventure  
 Ridd dense reps alpha - KovaaKsChattingBaitedChopper  
+Roa complete - KovaaKsBottingOrangeHip  
 
 # issue-specific
 Routines meant to help with specific issues encountered when aim training, like overflicking

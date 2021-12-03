@@ -137,6 +137,7 @@ Lapu4 intermediate smoothness 1 - KovaaKsSneakingSilverPatrol
 Lapu4 intermediate smoothness 2 - KovaaKsStrafingSlipperyUfo  
 Lapu4 advanced smoothness 1 - KovaaKsSensingSilver1x1  
 Lapu4 advanced smoothness 2 - KovaaKsStartingSlipperyCashdrop  
+Roa smoothness - KovaaKsNamedroppingBlueFeed  
 Ukiyo smoothness - KovaaKsBobbingCamoflagedPull  
 Voltaic Smoothness & Precision Easy - KovaaKsCrossfiringDesertsandBuff  
 Voltaic Smoothness & Precision Intermediate - KovaaKsDashingDiagonalJump  

@@ -12,7 +12,12 @@ KovaaK - KovaaKsAdsing90Patrol
 Lapu4 - KovaaKsExitfraggingAlmightyCapture  
 n0ted - KovaaKsBobbingInvincibleShotgun  
 PureG - KovaaKsPatrollingFuchsiaIntelligence  
-Voltaic - KovaaKsGearingFastUfo  
+Voltaic Complete Easy - KovaaKsChokingCloseBug  
+Voltaic Complete Advanced - KovaaKsChatfraggingChestnutTopfrag  
+Voltaic Clicking Focus - KovaaKsClearingCloseStart  
+Voltaic Tracking Focus - KovaaKsClickingClutchKillstreak  
+Voltaic Switching Focus - KovaaKsClippingCobaltDoublepump  
+Voltaic Strafe Aim Focus - KovaaKsCounterstrafingCopperBloom  
 
 ## arena fps (quake, diabotical)
 Voltaic Fundamental - KovaaKsAfkingMagentaAfk  

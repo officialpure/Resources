@@ -135,6 +135,9 @@ Roa complete - KovaaKsBottingOrangeHip
 # issue-specific
 Routines meant to help with specific issues encountered when aim training, like overflicking
 
+## micro adjustment
+Gored micro - KovaaKsRaidingDinked1v1  
+
 ## smoothness
 Lapu4 beginner smoothness 1 - KovaaksSnipingSkyblueFinisher  
 Lapu4 beginner smoothness 2 - KovaaKsStrikingSlowMonster  
@@ -149,6 +152,7 @@ Voltaic Smoothness & Precision Intermediate - KovaaKsDashingDiagonalJump
 
 ## speed
 Voltaic Speed - KovaaKsExitfraggingEntryGamesense  
+Gored speed - KovaaKsReloadingDinkedOptic  
 
 ## target acquistion
 Voltaic Static Target Acquisition Easy 1b1 - KovaaKsEntryfraggingEggplantPrism  

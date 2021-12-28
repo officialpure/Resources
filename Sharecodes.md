@@ -125,6 +125,7 @@ Krascsi legacy switching - KovaaKsBlinkingStaticDub
 Lapu4 switching 1 - KovaaKsScreamingShinyCinematic  
 Lapu4 switching 2 - KovaaKsRocketingShamrockGamesense  
 Lapu4 switching 3 - KovaaKsRoamingSepiaPrism  
+Lapu4 large angle switching - KovaaKsDunkingStaticLoot  
 
 ## complete
 Jab complete - KovaaKsEnragingCobaltAimbot  

@@ -73,6 +73,7 @@ Ridd budget - KovaaKsDashingVividtangerineHip
 Voltaic - KovaaKsBouncingMidnightblueBrush  
 
 ## overwatch
+[Kabe](https://docs.google.com/document/d/1HMeZqr5GtcsnTKl2Yvk9DfrCrIiOE1pp5PvkDsqWR7M/edit) - KovaaKsFlanking180Eco  
 KovaaK - KovaaKsBlinkingAfkStrike  
 Voltaic - KovaaKsBottingMidEgg  
 

@@ -202,8 +202,8 @@ Clicking - KovaaKsPushingSlipperyBm
 Switching - KovaaKsQuestingSlipperySeason    
 Tracking - KovaaKsRaidingSlowHip    
 
-## voltaic easy
-Complete - KovaaKsAcingTealBloom    
+## [voltaic intermediate](http://bit.ly/VTBenchmarks)
+Complete - KovaaKsFlickingFastCashdrop      
 
-## voltaic advanced
-Complete - KovaaKsMountingCopperPlunder  
+## [voltaic advanced](http://bit.ly/VTBenchmarks)
+Complete - KovaaKsFlashingFarFinisher    

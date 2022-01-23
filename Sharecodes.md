@@ -102,6 +102,7 @@ Movement (by Patys) - KovaaKsBunnyhoppingAquamarineQuaker
 Avery static + smoothness - KovaaKsBloomingEntryCrossfire  
 bil static - KovaaKsBindingGoldenochrePopcorn  
 bil static collection - KovaaKsBaitingGoldenochreAntidive  
+Eeriecold static v3 - KovaaKsDroppingJumboRhombus  
 Huss dynamic - KovaaKsDunkingHorizontalFireteam  
 Krascsi dynamic - KovaaKsHipfiringOrangeBuystation  
 Krascsi legacy clicking - KovaaKsJigglepeekingBuggedGear  

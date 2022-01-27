@@ -114,7 +114,7 @@ Meld movement warmup - KovaaKsPerfectingDenimTeleport
 Voltaic Strafe Tracking - KovaaKsFlankingFantasticPatrol  
 
 ## tracking
-Eeriecold tracking v2 - KovaaKsDodgingJumboBigpot  
+Eeriecold tracking v3 - KovaaKsDodgingJumboBigpot  
 Krascsi legacy tracking - KovaaKsTimewarpingGhostpeekedHipfire  
 Leica air basic - KovaaKsTeleportingChatfraggedBug  
 Leica air intermediate - KovaaKsTimewarpingChatfraggedStart   

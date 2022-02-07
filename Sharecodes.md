@@ -156,7 +156,7 @@ PureG smoothness - KovaaKsFlicking10xCrank
 PureG smoothness (christmasiscancelled version) - KovaaKsFlashing360Heaven  
 PureG smoothness (easy version) - KovaaKsFlanking180Rhombus  
 Roa smoothness - KovaaKsNamedroppingBlueFeed  
-Ukiyo smoothness - KovaaKsBobbingCamoflagedPull  
+Ukiyo smoothness - KovaaKsBobbingCamouflagedPull  
 Voltaic Smoothness & Precision Easy - KovaaKsCrossfiringDesertsandBuff  
 Voltaic Smoothness & Precision Intermediate - KovaaKsDashingDiagonalJump  
 

@@ -121,6 +121,7 @@ Leica air intermediate - KovaaKsTimewarpingChatfraggedStart
 Leica air advanced - KovaaKsTaggingCharcoalgrayEnrage  
 Jab smoothness - KovaaKsImpactingGreenGamesense  
 Ridd reactive smooth - KovaaKsChatfraggingBadFullbuy  
+Trippez Stop and Go - KovaaKsJumpingLightvenetianredBrush  
 Voltaic reactivity - KovaaKsFeedingExtraCinematic  
 
 ## target switching
@@ -139,9 +140,18 @@ Roa complete - KovaaKsBottingOrangeHip
 # issue-specific
 Routines meant to help with specific issues encountered when aim training, like overflicking
 
+## arcing
+Trippez Bouncing Overlords - KovaaKsChallengingWeeklyArmor  
+
+## high intensity
+Trippez So Stressed Out – KovaaKsCapturingSpringgreenBottomfrag  
+
 ## microflick
 Gored micro - KovaaKsRaidingDinked1v1  
 Lapu micro - KovaaKsPickingEasyHighground  
+
+## peeking
+Trippez Peak Peeking Practice - KovaaKsRaiding360Camp  
 
 ## smoothness
 Fallen smoothness a - KovaaKsStartingCapturedDeserteagle  
@@ -156,6 +166,7 @@ PureG smoothness - KovaaKsFlicking10xCrank
 PureG smoothness (christmasiscancelled version) - KovaaKsFlashing360Heaven  
 PureG smoothness (easy version) - KovaaKsFlanking180Rhombus  
 Roa smoothness - KovaaKsNamedroppingBlueFeed  
+Trippez Smooth Regen - KovaaKsDashingAlmightyCounterstrafe  
 Ukiyo smoothness - KovaaKsBobbingCamouflagedPull  
 Voltaic Smoothness & Precision Easy - KovaaKsCrossfiringDesertsandBuff  
 Voltaic Smoothness & Precision Intermediate - KovaaKsDashingDiagonalJump  

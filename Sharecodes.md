@@ -163,6 +163,13 @@ Voltaic Smoothness & Precision Intermediate - KovaaKsDashingDiagonalJump
 ## speed
 Voltaic Speed - KovaaKsExitfraggingEntryGamesense  
 Gored speed - KovaaKsReloadingDinkedOptic  
+Trippez Speed 1 – KovaaKsGriefingGearedController  
+Trippez Speed 2 – KovaaKsHeadshottingGhostpeekedAntidive  
+Trippez Speed 3 – KovaaKsHipfiringGhostpeekedPopcorn  
+Trippez speed Clicking 1 – KovaaKsImpactingGoatedFragger  
+Trippez speed Clicking 2 – KovaaKsJigglepeekingGodlikeCheater  
+Trippez speed TS 1 – KovaaKsJumpingGodlikeXur  
+Trippez speed TS 2 – KovaaKsKillstreakingGoldenochreOfftank  
 
 ## target acquistion
 Voltaic Static Target Acquisition Easy 1b1 - KovaaKsEntryfraggingEggplantPrism  

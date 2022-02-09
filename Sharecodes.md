@@ -121,6 +121,7 @@ Leica air intermediate - KovaaKsTimewarpingChatfraggedStart
 Leica air advanced - KovaaKsTaggingCharcoalgrayEnrage  
 Jab smoothness - KovaaKsImpactingGreenGamesense  
 Ridd reactive smooth - KovaaKsChatfraggingBadFullbuy  
+Torje reactive tracking - KovaaKsPerfectingDownedWindow  
 Trippez Stop and Go - KovaaKsJumpingLightvenetianredBrush  
 Voltaic reactivity - KovaaKsFeedingExtraCinematic  
 

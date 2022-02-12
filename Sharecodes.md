@@ -78,6 +78,7 @@ KovaaK - KovaaKsBlinkingAfkStrike
 Voltaic - KovaaKsBottingMidEgg  
 
 ## siege
+SkylrTM fundamental - KovaaKsTimewarpingPetulantChoke  
 Voltaic - KovaaKsBunnyhoppingMiniIntelligence  
 
 ## splitgate

@@ -147,6 +147,7 @@ Jab complete - KovaaKsEnragingCobaltAimbot
 [Krascsi Yin](https://youtu.be/sBUmW2DZNiE) - KovaaKsWipingStaticWall  
 [Krascsi Yang](https://youtu.be/sBUmW2DZNiE) - KovaaKsWinningStaticChallenge  
 Lapu4 complete - KovaaKsCarryingMahoganyAdventure  
+Lorys 'end' - KovaaKsDeathballingNavyblueInfiltration  
 Ridd dense reps alpha - KovaaKsChattingBaitedChopper  
 Roa complete - KovaaKsBottingOrangeHip  
 

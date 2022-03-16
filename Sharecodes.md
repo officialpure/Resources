@@ -47,9 +47,8 @@ Avery warmup - KovaaKsAscendingNastyTacmap
 Avery fundamental 1 - KovaaKsBaitingNerfedDuelist  
 Avery fundamental 2 - KovaaKsBlinkingOlivegreenShard  
 Avery fundamental 3 - KovaaKsBloomingOrangeImpact  
-Fallen 1b1 Complete 1 - KovaaKsClearingMediumFaction  
-Fallen 1b1 Complete 2 - KovaaKsClippingMehTank  
-Fallen 1b1 Complete 3 - KovaaKsCounterstrafingMidMachine  
+Fallen 1b1 Complete 1 - KovaaKsClippingMehTank  
+Fallen 1b1 Complete 2 - KovaaKsCounterstrafingMidMachine  
 Fallen 1b1 Static - KovaaKsDashingNarrowDiscord  
 Fallen Complete - KovaaKsGriefingCloseBfg  
 Fallen Intermediate Tracking - KovaaKsCheatingMauveWeaponlevel  
@@ -112,6 +111,7 @@ Krascsi moving targets click - KovaaKsDeathballingMahoganyChat
 Krascsi static click - KovaaKsDashingMagentaFov  
 Lapu4 static  - KovaaKsCrouchingBrownEnrage  
 Ridd dynamic - KovaaKsPlunderingMountedDink  
+Skylr dynamic - KovaaKsClearingWeeklyBottomfrag  
 
 ## movement
 Meld movement warmup - KovaaKsPerfectingDenimTeleport  
@@ -181,6 +181,7 @@ PureG smoothness - KovaaKsFlicking10xCrank
 PureG smoothness (christmasiscancelled version) - KovaaKsFlashing360Heaven  
 PureG smoothness (easy version) - KovaaKsFlanking180Rhombus  
 Roa smoothness - KovaaKsNamedroppingBlueFeed  
+Skylr smoothness - KovaaKsPerfectingOlivegreenSkybot  
 Trippez Smooth Regen - KovaaKsDashingAlmightyCounterstrafe  
 Ukiyo smoothness - KovaaKsBobbingCamouflagedPull  
 Voltaic Smoothness & Precision Easy - KovaaKsCrossfiringDesertsandBuff  

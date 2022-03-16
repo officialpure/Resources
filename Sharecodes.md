@@ -107,6 +107,9 @@ Eeriecold static v3 - KovaaKsDroppingJumboRhombus
 Huss dynamic - KovaaKsDunkingHorizontalFireteam  
 Krascsi dynamic - KovaaKsHipfiringOrangeBuystation  
 Krascsi legacy clicking - KovaaKsJigglepeekingBuggedGear  
+Krascsi low ttk click and switch - KovaaKsEntryfraggingMediumMain  
+Krascsi moving targets click - KovaaKsDeathballingMahoganyChat  
+Krascsi static click - KovaaKsDashingMagentaFov  
 Lapu4 static  - KovaaKsCrouchingBrownEnrage  
 Ridd dynamic - KovaaKsPlunderingMountedDink  
 
@@ -116,7 +119,10 @@ Voltaic Strafe Tracking - KovaaKsFlankingFantasticPatrol
 
 ## tracking
 Eeriecold tracking v3 - KovaaKsDodgingJumboBigpot  
+Krascsi close combat tracking - KovaaKsExitfraggingMehEgg  
+[Krascsi FuglaaXYZ playlist](https://docs.google.com/document/d/1HBM95sR5a1qGu9FDZ_-Wr8fObXVjllvznPeYEGUAE0A/edit?usp=sharing) - KovaaKsPeakingTwitchyAds  
 Krascsi legacy tracking - KovaaKsTimewarpingGhostpeekedHipfire  
+Krascsi precision tracking - KovaaKsEnragingMaximumblueTeleport  
 Leica air basic - KovaaKsTeleportingChatfraggedBug  
 Leica air intermediate - KovaaKsTimewarpingChatfraggedStart   
 Leica air advanced - KovaaKsTaggingCharcoalgrayEnrage  
@@ -129,6 +135,8 @@ Voltaic reactivity - KovaaKsFeedingExtraCinematic
 
 ## target switching
 Krascsi legacy switching - KovaaKsBlinkingStaticDub  
+Krascsi static switch small - KovaaKsCrouchingLongPlunder  
+Krascsi static switch speed - KovaaKsCrossfiringLongAfk  
 Lapu4 switching 1 - KovaaKsScreamingShinyCinematic  
 Lapu4 switching 2 - KovaaKsRocketingShamrockGamesense  
 Lapu4 switching 3 - KovaaKsRoamingSepiaPrism  
@@ -136,6 +144,8 @@ Lapu4 large angle switching - KovaaKsDunkingStaticLoot
 
 ## complete
 Jab complete - KovaaKsEnragingCobaltAimbot  
+[Krascsi Yin](https://youtu.be/sBUmW2DZNiE) - KovaaKsWipingStaticWall  
+[Krascsi Yang](https://youtu.be/sBUmW2DZNiE) - KovaaKsWinningStaticChallenge  
 Lapu4 complete - KovaaKsCarryingMahoganyAdventure  
 Ridd dense reps alpha - KovaaKsChattingBaitedChopper  
 Roa complete - KovaaKsBottingOrangeHip  
@@ -144,6 +154,7 @@ Roa complete - KovaaKsBottingOrangeHip
 Routines meant to help with specific issues encountered when aim training, like overflicking
 
 ## arcing
+Krascsi arc track and switch - KovaaKsDroppingMauveFalldamage  
 Trippez Bouncing Overlords - KovaaKsChallengingWeeklyArmor  
 
 ## high intensity

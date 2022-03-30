@@ -34,6 +34,7 @@ KovaaK CS - KovaaKsAscending360Ufo
 KovaaK Valorant - KovaaKsClippingBrownBottomfrag  
 Krascsi Tacfps - KovaaKsDinkingMauveLoadout  
 n0ted - KovaaKsBottingJumboBattlepass  
+Pyth - KovaaKsFeedingEggplantImpact  
 Voltaic Easy - KovaaKsTeleportingJebaitedBuystation  
 Yamz Practical - KovaaKsSwitchingTealValue  
 

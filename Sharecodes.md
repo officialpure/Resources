@@ -10,6 +10,8 @@ Routines that are geared around improving in specific games
 ## apex
 KovaaK - KovaaKsAdsing90Patrol  
 Lapu4 - KovaaKsExitfraggingAlmightyCapture  
+Luciian intermediate - KovaaKsCrankingDandelionPharmercy  
+Luciian experienced - KovaaKsCamouflagingChattyEntryfragger  
 n0ted - KovaaKsBobbingInvincibleShotgun  
 PureG - KovaaKsPatrollingFuchsiaIntelligence  
 Voltaic Complete Easy - KovaaKsChokingCloseBug  

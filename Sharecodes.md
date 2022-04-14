@@ -9,6 +9,7 @@ Routines that are geared around improving in specific games
 
 ## apex
 KovaaK - KovaaKsAdsing90Patrol  
+Krascsi beta - KovaaKsImpactingOlivegreenChoke  
 Lapu4 - KovaaKsExitfraggingAlmightyCapture  
 Luciian intermediate - KovaaKsCrankingDandelionPharmercy  
 Luciian experienced - KovaaKsCamouflagingChattyEntryfragger  
@@ -122,8 +123,12 @@ Voltaic Strafe Tracking - KovaaKsFlankingFantasticPatrol
 
 ## tracking
 Eeriecold tracking v3 - KovaaKsDodgingJumboBigpot  
+Krascsi 1wall tracking + movement - KovaaKsDunkingMaximumblueCamp  
+Krascsi arc track and switch + movement - KovaaKsDroppingMauveFalldamage  
 Krascsi close combat tracking - KovaaKsExitfraggingMehEgg  
+Krascsi flying things track and switch - KovaaKsDodgingMaroonNuns  
 [Krascsi FuglaaXYZ playlist](https://docs.google.com/document/d/1HBM95sR5a1qGu9FDZ_-Wr8fObXVjllvznPeYEGUAE0A/edit?usp=sharing) - KovaaKsPeakingTwitchyAds  
+Krascsi horizontal tracking + movement - KovaaKsDinkingMahoganyWindow  
 Krascsi legacy tracking - KovaaKsTimewarpingGhostpeekedHipfire  
 Krascsi precision tracking - KovaaKsEnragingMaximumblueTeleport  
 Leica air basic - KovaaKsTeleportingChatfraggedBug  

@@ -8,6 +8,8 @@ This will be a list of all known public sharecodes for Kovaaks FPS Aim Trainer. 
 Routines that are geared around improving in specific games
 
 ## apex
+Aimerz beginner - KovaaKsMainingJumboBot  
+Aimerz intermediate - KovaaKsBottingCapturedCatalyst  
 KovaaK - KovaaKsAdsing90Patrol  
 Krascsi beta - KovaaKsImpactingOlivegreenChoke  
 Lapu4 - KovaaKsExitfraggingAlmightyCapture  

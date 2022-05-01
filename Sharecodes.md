@@ -137,6 +137,9 @@ Leica air basic - KovaaKsTeleportingChatfraggedBug
 Leica air intermediate - KovaaKsTimewarpingChatfraggedStart   
 Leica air advanced - KovaaKsTaggingCharcoalgrayEnrage  
 Jab smoothness - KovaaKsImpactingGreenGamesense  
+Psev general reactive - KovaaKsChokingStaticQuest  
+Psev reactive smooth - KovaaKsFlankingAngelicFlash  
+Psev close range reactive smooth - KovaaKsEntryfraggingAfkGear  
 Ridd reactive smooth - KovaaKsChatfraggingBadFullbuy  
 Torje tracking intermediate - KovaaKsPickingDynamicNuns  
 Torje tracking advanced - KovaaKsPerfectingDownedWindow  

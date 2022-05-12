@@ -32,6 +32,10 @@ Voltaic LG 1v1 - KovaaKsBindingMaroonWindow
 KovaaK - KovaaKsCounterstrafingBrownShard  
 Voltaic - KovaaKsGhostpeekingFedMonster  
 
+## bloodhunt
+Gored intermediate - KovaaKsDeathballingApricotBattlepass  
+Gored hard - KovaaKsCarryingJebaitedCinematic  
+
 ## counterstrike / valorant
 BardOZ Advanced - KovaaKsTrackingJitteryLowground   
 Freakazoid - KovaaKsBoomstickingJitteryDink  

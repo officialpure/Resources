@@ -116,6 +116,7 @@ Krascsi low ttk click and switch - KovaaKsEntryfraggingMediumMain
 Krascsi moving targets click - KovaaKsDeathballingMahoganyChat  
 Krascsi static click - KovaaKsDashingMagentaFov  
 Lapu4 static  - KovaaKsCrouchingBrownEnrage  
+Lapu4 static smoothness - KovaaKsKillstreakingRangedDiscord  
 Ridd dynamic - KovaaKsPlunderingMountedDink  
 Skylr dynamic - KovaaKsClearingWeeklyBottomfrag  
 

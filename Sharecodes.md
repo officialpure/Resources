@@ -86,6 +86,9 @@ Voltaic - KovaaKsBouncingMidnightblueBrush
 KovaaK - KovaaKsBlinkingAfkStrike  
 Voltaic - KovaaKsBottingMidEgg  
 
+## overwatch 2
+Stirling clicking - KovaaKsZoningTanAce  
+
 ## siege
 SkylrTM fundamental - KovaaKsTimewarpingPetulantChoke  
 Voltaic - KovaaKsBunnyhoppingMiniIntelligence  

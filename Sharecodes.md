@@ -189,6 +189,11 @@ Lapu micro - KovaaKsPickingEasyHighground
 ## peeking
 Trippez Peak Peeking Practice - KovaaKsRaiding360Camp  
 
+## reactivity
+Ridd X or Y - KovaaKsFlashingMountedCd  
+Ridd XY - KovaaKsGriefingNavyblueSupport  
+Ridd XYZ - KovaaKsNamedroppingPlumClip  
+
 ## smoothness
 Fallen smoothness a - KovaaKsStartingCapturedDeserteagle  
 Fallen smoothness b - KovaaKsStrafingCeruleanAutomatic  

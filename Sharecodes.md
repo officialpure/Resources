@@ -124,6 +124,7 @@ Krascsi moving targets click - KovaaKsDeathballingMahoganyChat
 Krascsi static click - KovaaKsDashingMagentaFov  
 Lapu4 static  - KovaaKsCrouchingBrownEnrage  
 Lapu4 static smoothness - KovaaKsKillstreakingRangedDiscord  
+Lorys dynamic - KovaaKsReloadingCornflowerFov  
 Ridd dynamic - KovaaKsPlunderingMountedDink  
 Skylr dynamic - KovaaKsClearingWeeklyBottomfrag  
 
@@ -133,6 +134,8 @@ Voltaic Strafe Tracking - KovaaKsFlankingFantasticPatrol
 
 ## tracking
 Eeriecold tracking v3 - KovaaKsDodgingJumboBigpot  
+Hauntr easy - KovaaKsSneakingDesertsandMain  
+Hauntr hard - KovaaKsSnipingDiagonalEgg  
 Krascsi 1wall tracking + movement - KovaaKsDunkingMaximumblueCamp  
 Krascsi arc track and switch + movement - KovaaKsDroppingMauveFalldamage  
 Krascsi close combat tracking - KovaaKsExitfraggingMehEgg  
@@ -193,6 +196,7 @@ Trippez Peak Peeking Practice - KovaaKsRaiding360Camp
 Ridd X or Y - KovaaKsFlashingMountedCd  
 Ridd XY - KovaaKsGriefingNavyblueSupport  
 Ridd XYZ - KovaaKsNamedroppingPlumClip  
+Torje reactivity conditioning - KovaaKsChallengingDesertsandHeaven  
 
 ## smoothness
 Fallen smoothness a - KovaaKsStartingCapturedDeserteagle  
@@ -234,6 +238,9 @@ Voltaic Static Target Acquisition Advanced Complete - KovaaKsDroppingDynamicHell
 ## target reading
 LighthawkFPS - Target Reading Easy - KovaaKsCrankingFlyReset  
 LighthawkFPS - Target Reading Normal - KovaaKsCrackingFlyBfg  
+
+## wide angles
+Herro wide flicks - KovaaKsFlashingBrightDps  
 
 # fundamentals
 Community-built fundamental routines that are usually accompanied with documentation and benchmarks for measuring progress

@@ -90,7 +90,8 @@ Voltaic - KovaaKsBottingMidEgg
 Stirling clicking - KovaaKsZoningTanAce  
 
 ## siege
-SkylrTM fundamental - KovaaKsTimewarpingPetulantChoke  
+SkylrTM easy - KovaaKsCheatingEntryBottomfrag    
+SkylrTM normal - KovaaKsChokingEntryShard  
 Voltaic - KovaaKsBunnyhoppingMiniIntelligence  
 
 ## splitgate

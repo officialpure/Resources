@@ -44,6 +44,9 @@ KovaaK Valorant - KovaaKsClippingBrownBottomfrag
 Krascsi Tacfps - KovaaKsDinkingMauveLoadout  
 n0ted - KovaaKsBottingJumboBattlepass  
 Pyth - KovaaKsFeedingEggplantImpact  
+[Robb ZR](https://jasper-meadow-c4d.notion.site/Valorant-Routines-48158e5a04e94a559c2fae7ab4819f83) - KovaaKsDodgingPeachChoke  
+[Robb horizontal corrections](https://jasper-meadow-c4d.notion.site/Valorant-Routines-48158e5a04e94a559c2fae7ab4819f83) - KovaaKsScreamingMountedLowground  
+[Robb ZR strafe](https://jasper-meadow-c4d.notion.site/Valorant-Routines-48158e5a04e94a559c2fae7ab4819f83) - KovaaKsRaidingLavenderFinisher  
 Voltaic Easy - KovaaKsTeleportingJebaitedBuystation  
 Yamz Practical - KovaaKsSwitchingTealValue  
 

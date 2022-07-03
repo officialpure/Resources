@@ -131,6 +131,7 @@ Lapu4 static smoothness - KovaaKsKillstreakingRangedDiscord
 Lorys dynamic - KovaaKsReloadingCornflowerFov  
 Ridd dynamic - KovaaKsPlunderingMountedDink  
 Skylr dynamic - KovaaKsClearingWeeklyBottomfrag  
+Skylr static - KovaaKsStartingNavyblueRank  
 
 ## movement
 Meld movement warmup - KovaaKsPerfectingDenimTeleport  
@@ -225,6 +226,7 @@ Voltaic Smoothness & Precision Intermediate - KovaaKsDashingDiagonalJump
 ## speed
 Voltaic Speed - KovaaKsExitfraggingEntryGamesense  
 Gored speed - KovaaKsReloadingDinkedOptic  
+Skylr speed - KovaaKsSnipingNavyblueBattlepass  
 Trippez Speed 1 – KovaaKsGriefingGearedController  
 Trippez Speed 2 – KovaaKsHeadshottingGhostpeekedAntidive  
 Trippez Speed 3 – KovaaKsHipfiringGhostpeekedPopcorn  

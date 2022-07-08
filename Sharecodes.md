@@ -93,8 +93,8 @@ Voltaic - KovaaKsBottingMidEgg
 Stirling clicking - KovaaKsZoningTanAce  
 
 ## siege
-SkylrTM easy - KovaaKsCheatingEntryBottomfrag    
-SkylrTM normal - KovaaKsChokingEntryShard  
+Skylr Easy: KovaaKsJumpingKnockedTacmap  
+Skylr Normal: KovaaKsJigglepeekingKnockedBuystation  
 Voltaic - KovaaKsBunnyhoppingMiniIntelligence  
 
 ## splitgate

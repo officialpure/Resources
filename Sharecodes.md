@@ -43,6 +43,8 @@ KovaaK CS - KovaaKsAscending360Ufo
 KovaaK Valorant - KovaaKsClippingBrownBottomfrag  
 Krascsi Tacfps - KovaaKsDinkingMauveLoadout  
 n0ted - KovaaKsBottingJumboBattlepass  
+PureG full - KovaaKsHipfiringShamrockAttrition  
+PureG warmup - KovaaKsHeadshottingSepiaDeathball  
 Pyth - KovaaKsFeedingEggplantImpact  
 [Robb ZR](https://jasper-meadow-c4d.notion.site/Valorant-Routines-48158e5a04e94a559c2fae7ab4819f83) - KovaaKsDodgingPeachChoke  
 [Robb horizontal corrections](https://jasper-meadow-c4d.notion.site/Valorant-Routines-48158e5a04e94a559c2fae7ab4819f83) - KovaaKsScreamingMountedLowground  

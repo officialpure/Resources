@@ -15,7 +15,7 @@ You will need an account at [Researchrabbit.ai](https://researchrabbit.ai) to wo
 8. [Neurology](https://www.researchrabbitapp.com/collection/public/NOLEW71VLK)
 9. [Crosshair](https://www.researchrabbitapp.com/collection/public/9NLVPYRMLP)
 10. [Fasting](https://www.researchrabbitapp.com/collection/public/KXL2PX18LQ)
-11. [Blueberries](https://www.researchrabbitapp.com/collection/public/9NLV40VO6P)
+11. [Pharmacology](https://www.researchrabbitapp.com/collection/public/9NLV40VO6P)
 12. [Challenge](https://www.researchrabbitapp.com/collection/public/4EZROK1WZ1)
 13. [Light](https://www.researchrabbitapp.com/collection/public/X2654PR9ZM)
 14. [Metronome](https://www.researchrabbitapp.com/collection/public/JOZY4E9QLY)

@@ -161,6 +161,10 @@ Psev close range reactive smooth - KovaaKsEntryfraggingAfkGear
 Ridd reactive smooth - KovaaKsChatfraggingBadFullbuy  
 Torje tracking intermediate - KovaaKsPickingDynamicNuns  
 Torje tracking advanced - KovaaKsPerfectingDownedWindow  
+Trippez smooth reactivity 1 - KovaaKsQuestingSepiaProjectile  
+Trippez smooth reactivity 2 - KovaaKsBombingPeriwinkleQuest  
+Trippez smooth reactivity 3 - KovaaKsFeedingVioletXur  
+Trippez smooth reactivity 4 - KovaaKsTeleportingMiniEngine  
 Trippez Stop and Go - KovaaKsJumpingLightvenetianredBrush  
 Voltaic reactivity - KovaaKsFeedingExtraCinematic  
 
